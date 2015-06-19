@@ -1,0 +1,10 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Search\build\release\USC.GISResearchLab.ShortestPath.Search.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Search\src\obj\Release\ShortestPath.Search.csprojResolveAssemblyReference.cache
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Search\src\obj\Release\USC.GISResearchLab.ShortestPath.Search.dll
+C:\DevBuild\Tamu\GeoInnovation\ShortestPath\ShortestPath.Search\build\1.0.0\release\Tamu.GeoInnovation.ShortestPath.Search.dll
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\Search\src\obj\Release\ShortestPath.Search.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\Search\src\obj\Release\Tamu.GeoInnovation.ShortestPath.Search.dll
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.ShortestPath.Search.dll
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\Search\src\Main\obj\Release\ShortestPath.Search.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\Search\src\Main\obj\Release\Tamu.GeoInnovation.ShortestPath.Search.dll
+C:\DevSource\Tamu\GeoInnovation\ShortestPath\Search\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.ShortestPath.Search.dll
