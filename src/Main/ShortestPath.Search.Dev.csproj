@@ -87,22 +87,6 @@
     </Reference>
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="Tamu.GeoInnovation.Common.Core.Geo.DistanceFunctions">
-      <HintPath>..\..\..\Common.Core.Geo.DistanceFunctions\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Geo.DistanceFunctions.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Tamu.GeoInnovation.Common.Core.Geo.Units">
-      <HintPath>..\..\..\Common.Core.Geo.Units\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Geo.Units.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="TAMU.GeoInnovation.ShortestPath.GraphStructure">
-      <HintPath>..\..\..\ShortestPath.GraphStructure\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.ShortestPath.GraphStructure.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="TAMU.GeoInnovation.ShortestPath.RoadNetworkData">
-      <HintPath>..\..\..\ShortestPath.RoadNetworkData\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.ShortestPath.RoadNetworkData.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AStar.cs" />
@@ -132,6 +116,28 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="LICENSE.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common.Core.Geo.DistanceFunctions\Src\Main\Common.Core.Geo.DistanceFunctions.Dev.csproj">
+      <Project>{858FA972-963A-483C-B0CA-0110B9538411}</Project>
+      <Name>Common.Core.Geo.DistanceFunctions.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Common.Core.Geo.Units\Src\Main\Common.Core.Geo.Units.Dev.csproj">
+      <Project>{5F42520E-2DDA-4B4A-AFE5-5F5E00E33D47}</Project>
+      <Name>Common.Core.Geo.Units.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\ShortestPath.GraphStructure\src\Main\ShortestPath.GraphStructure.Dev.csproj">
+      <Project>{F9BB59CB-961E-4002-9267-93E3806E93C4}</Project>
+      <Name>ShortestPath.GraphStructure.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\ShortestPath.RoadNetworkData\src\Main\ShortestPath.RoadNetworkData.Dev.csproj">
+      <Project>{988C1883-20D2-4F93-8E62-6F8541DB6B58}</Project>
+      <Name>ShortestPath.RoadNetworkData.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
