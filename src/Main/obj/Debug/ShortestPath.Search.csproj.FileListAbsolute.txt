@@ -1,9 +1,0 @@
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Search\build\debug\USC.GISResearchLab.ShortestPath.Search.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Search\build\debug\USC.GISResearchLab.ShortestPath.Search.pdb
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Search\src\obj\Debug\ShortestPath.Search.csprojResolveAssemblyReference.cache
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Search\src\obj\Debug\USC.GISResearchLab.ShortestPath.Search.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\Search\src\obj\Debug\USC.GISResearchLab.ShortestPath.Search.pdb
-C:\DevBuild\Tamu\GeoInnovation\ShortestPath\ShortestPath.Search\build\1.0.0\debug\Tamu.GeoInnovation.ShortestPath.Search.dll
-C:\DevBuild\Tamu\GeoInnovation\ShortestPath\ShortestPath.Search\build\1.0.0\debug\Tamu.GeoInnovation.ShortestPath.Search.pdb
-C:\DevSource\Tamu\GeoInnovation\ShortestPath\Search\src\obj\Debug\Tamu.GeoInnovation.ShortestPath.Search.dll
-C:\DevSource\Tamu\GeoInnovation\ShortestPath\Search\src\obj\Debug\Tamu.GeoInnovation.ShortestPath.Search.pdb

@@ -1,3 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\ShortestPath.Search\src\Main\obj\Release\Tamu.GeoInnovation.ShortestPath.Search.dll
-C:\DevSource\Tamu\GeoInnovation\ShortestPath.Search\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.ShortestPath.Search.dll
-C:\DevSource\Tamu\GeoInnovation\ShortestPath.Search\src\Main\obj\Release\ShortestPath.Search.Build.csprojResolveAssemblyReference.cache
