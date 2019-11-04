@@ -207,7 +207,7 @@ namespace USC.GISResearchLab.ShortestPath.Search
                             // add newly discovered edge to the 'closed list'
                             if (closedList.Contains(extract.PrevUID, current.UID)) throw new Exception("Closed/Open List violation " + current + ".");
                             else closedList.Set(extract.PrevUID, current.UID, current);
-                            
+
                             // termination condition
                             if (ToNN.ContainsKey(current.UID))
                             {
